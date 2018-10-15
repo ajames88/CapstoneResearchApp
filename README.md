@@ -1,9 +1,4 @@
-# Ionic-Simple Calculator
-![Image](https://raw.githubusercontent.com/arjunsk/ionic_simple_calculator/master/screen.jpg)
-
-
-
-####Note:
+# CapstoneResearchApp
 This is a very basic calculator build in Ionic Framework. The app uses eval() to get the result of operations.
 
-# CapstoneResearchApp
+This the base for this project was taken from a tutorial and modified.
